@@ -5,4 +5,4 @@ Anlässlich des Java 8 Release am 18.3. in Stuttgart:
 
 ## Folien
 
-<script async class="speakerdeck-embed" data-id="c13a58b0928d01313ec11a12803d7217" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+Die [Folien](https://speakerdeck.com/marcphilipp/java-8-launch-party) gibt's bei SpeakerDeck.
